@@ -1,5 +1,5 @@
-# CASE-LAB-Business-systems
-## курс greenatom CASE LAB Бизнес системы (ознакомительная практика)
+# CASE LAB Business systems
+## Курс greenatom CASE LAB Бизнес системы (ознакомительная практика)
 
 * 1 неделя - SUP FI
 * 2 неделя - Разработка программы расчета параметров займов
